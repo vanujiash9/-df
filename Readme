@@ -1,0 +1,37 @@
+# Movie Ticket Sales Analysis  
+## Overview  
+Dự án phân tích dữ liệu bán vé xem phim nhằm tìm hiểu đặc điểm khách hàng, xu hướng mua vé và các yếu tố ảnh hưởng đến hành vi mua sắm.  
+
+## Data Source  
+- Dữ liệu được lấy từ hệ thống bán vé trực tuyến của rạp chiếu phim XYZ  
+- Bao gồm thông tin khách hàng, thời gian mua vé, phương thức thanh toán, và dữ liệu phim  
+
+## Key Insights  
+### 1️⃣ Customer Portrait  
+- **Phân tích độ tuổi, giới tính**  
+- **Phân loại theo thế hệ (Gen Z, Millennials, Gen X, etc.)**  
+
+### 2️⃣ Buying Behavior  
+- **Khách hàng thường mua vé vào tháng nào?**  
+- **Ngày nào trong tuần có lượng vé bán cao nhất?**  
+- **Khung giờ nào có nhiều khách hàng nhất?**  
+
+### 3️⃣ Factors Affecting Purchases  
+- **Phân tích nền tảng thanh toán & phương thức thanh toán**  
+- **Ảnh hưởng của chương trình khuyến mãi**  
+- **Khách hàng thường xem những loại phim nào?**  
+
+### 4️⃣ Customer Value & Retention  
+- **Phát hiện khách hàng trung thành & hành vi bất thường**  
+- **So sánh retention giữa khách hàng có khuyến mãi và khách hàng organic (Cohort Analysis)**  
+
+### 5️⃣ Payment Success Rate  
+- **Tỷ lệ giao dịch thành công & lỗi**  
+- **Xu hướng lỗi theo thời gian**  
+- **Ứng dụng Machine Learning để dự đoán lỗi thanh toán?**  
+
+## Tools Used  
+- **Python**: Pandas, Matplotlib, Seaborn, Scikit-learn  
+- **SQL**: Data cleaning & merging  
+- **Power BI**: Dashboard visualization  
+- **Google Colab**: Xử lý dữ liệu và code notebook  
